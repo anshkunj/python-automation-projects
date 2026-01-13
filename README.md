@@ -70,7 +70,7 @@ Examples:
 ---
 
 ## 🔹 How to Use
-### ⚙️ Installation :
+⚙️ Installation :
 -Clone the repository  
 -Navigate to the required folder
  
