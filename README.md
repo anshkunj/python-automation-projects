@@ -1,15 +1,95 @@
 # Python Automation Projects
 
-This repository contains Python scripts for automation, bug fixing, file handling, and data cleaning. All stable scripts are in the `main` branch.
+This repository contains my Python scripts and mini-projects focused on **automation, bug fixing, file handling, and data cleaning**.  
+All code is written with clarity, proper structure, and real-world use cases in mind.
 
-## Folder Overview
-- **Automation/** → Scripts to automate repetitive tasks
-- **BugFix/** → Scripts to fix bugs or correct logic
-- **DataCleaning/** → Clean and preprocess CSV/Excel data
-- **FileHandling/** → Read, write, merge, and sort files
-- **Utilities/** → Helper scripts and small tools
+⭐ All stable and production-ready scripts are available in the **main** branch.
 
-## Usage
-- Each script has comments for easy understanding.
-- Tested on Python 3.8+.
-- Contact me for custom modifications.
+---
+
+## 🔹 Folder Structure Overview
+
+### 📂 Automation/
+Scripts to automate repetitive or manual tasks.
+Examples:
+- Cleaning CSV files
+- Renaming multiple files
+- Simple task automation
+
+---
+
+### 📂 BugFix/
+Scripts demonstrating bug fixing, logic correction, and safe coding practices.
+Examples:
+- Fixing index errors
+- Correcting logical mistakes
+- Error handling techniques
+
+---
+
+### 📂 DataCleaning/
+Scripts for cleaning and preparing data.
+Examples:
+- Removing empty rows
+- Removing duplicate records
+- Formatting CSV / Excel data
+
+---
+
+### 📂 FileHandling/
+Scripts related to file operations.
+Examples:
+- Reading and writing CSV files
+- Merging multiple files
+- Sorting files programmatically
+
+---
+
+### 📂 Utilities/
+Small helper tools and utility scripts.
+Examples:
+- Stopwatch
+- Logging utility
+- Common helper functions
+
+---
+
+## 🔹 Tech Stack
+- **Language:** Python  
+- **Version:** Python 3.8+  
+- **Libraries:** Standard library, pandas (where required)
+
+---
+
+## 🔹 Code Quality
+- Clean and readable code
+- Proper comments for easy understanding
+- Modular and reusable functions
+- Tested scripts before upload
+
+---
+
+## 🔹 How to Use
+1. Clone the repository  
+2. Navigate to the required folder  
+3. Run the script using Python  
+4. Modify inputs as needed  
+
+Each script contains example usage inside comments.
+
+---
+
+## 🔹 For Clients / Freelance Work
+This repository showcases my **Python logic, automation skills, and coding style**.  
+I can:
+- Modify existing scripts
+- Build custom automation
+- Fix bugs in Python code
+- Create new scripts as per requirements
+
+📩 Feel free to contact me for custom work or improvements.
+
+---
+
+## 🔹 Note
+This repository is regularly updated with new scripts and improvements.
