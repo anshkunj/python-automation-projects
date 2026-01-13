@@ -1,6 +1,5 @@
 """
 Clean CSV file by removing empty rows and columns.
-Author : anshkunj
 """
 import csv
 
