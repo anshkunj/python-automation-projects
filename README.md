@@ -70,7 +70,7 @@ Examples:
 ---
 
 ## 🔹 How to Use
-⚙️ Installation :  
+###⚙️ Installation  
 •Clone the repository  
 •pip install -r requirements.txt
 •Navigate to the required folder
